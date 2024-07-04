@@ -20,7 +20,7 @@
     width: 100px;
 }
 #logo{
-    background-image: url(\ am\ logo.webp);
+    background-image: url(Pics/am\ logo.webp);
     height: 50px;
     width: 100px;
     background-size: cover;
@@ -159,7 +159,7 @@ a{
 /* --//Hero Section // --  */
 
 #hero-section{
-    background-image: url(top\ head\ img.jpg);
+    background-image: url(Pics/top\ head\ img.jpg);
     height:360px ;
     width: 100%;
     background-size: cover;
@@ -222,7 +222,7 @@ a{
     padding-left: 15px;
 }
 #b1-img{
-    background-image: url(11.jpg);
+    background-image: url(Pics/11.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -231,7 +231,7 @@ a{
     margin-top: 15px;
 }
 #b2-img{
-    background-image: url(12.jpg);
+    background-image: url(Pics/12.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -240,7 +240,7 @@ a{
     margin-top: 15px;
 }
 #b3-img{
-    background-image: url(21.jpg);
+    background-image: url(Pics/21.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -249,7 +249,7 @@ a{
     margin-top: 15px;
 }
 #b4-img{
-    background-image: url(22.jpg);
+    background-image: url(Pics/22.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -258,7 +258,7 @@ a{
     margin-top: 15px;
 }
 #b5-img{
-    background-image: url(23.jpg);
+    background-image: url(Pics/23.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -267,7 +267,7 @@ a{
     margin-top: 15px;
 }
 #b6-img{
-    background-image: url(24.jpg);
+    background-image: url(Pics/24.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -276,7 +276,7 @@ a{
     margin-top: 15px;
 }
 #b7-img{
-    background-image: url(14.jpg);
+    background-image: url(Pics/14.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -285,7 +285,7 @@ a{
     margin-top: 15px;
 }
 #b8-img{
-    background-image: url(13.jpg);
+    background-image: url(Pics/13.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -294,7 +294,7 @@ a{
     margin-top: 15px;
 }
 #b9-img{
-    background-image: url(27.jpg);
+    background-image: url(Pics/27.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -303,7 +303,7 @@ a{
     margin-top: 15px;
 }
 #b10-img{
-    background-image: url(34.jpg);
+    background-image: url(Pics/34.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -312,7 +312,7 @@ a{
     margin-top: 15px;
 }
 #b11-img{
-    background-image: url(29.jpg);
+    background-image: url(Pics/29.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -321,7 +321,7 @@ a{
     margin-top: 15px;
 }
 #b12-img{
-    background-image: url(31.jpg);
+    background-image: url(Pics/31.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -330,7 +330,7 @@ a{
     margin-top: 15px;
 }
 #b13-img{
-    background-image: url(25.jpg);
+    background-image: url(Pics/25.jpg);
     height: 300px;
     background-size: cover;
     width: 65%;
@@ -340,7 +340,7 @@ a{
     margin-top: 15px;
 }
 #b14-img{
-    background-image: url(28.jpg);
+    background-image: url(Pics/28.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -349,7 +349,7 @@ a{
     margin-top: 15px;
 }
 #b15-img{
-    background-image: url(33.jpg);
+    background-image: url(Pics/33.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
@@ -358,7 +358,7 @@ a{
     margin-top: 15px;
 }
 #b16-img{
-    background-image: url(35.jpg);
+    background-image: url(Pics/35.jpg);
     height: 200px;
     background-size: cover;
     width: 85%;
