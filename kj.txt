@@ -1,0 +1,6 @@
+<i class="fa-solid fa-bars"></i> 3lines
+<i class="fa-solid fa-globe"></i> earth global
+<i class="fa-regular fa-copyright"></i> copyright
+
+<a href="#" id="belownav-all"  class="border">
+            <i class="fa-solid fa-bars"></i>All</a>
